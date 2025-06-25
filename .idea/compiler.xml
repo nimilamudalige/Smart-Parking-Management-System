@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Eureka-Server" />
         <module name="Parking-Space-Service" />
+        <module name="Payment-Service" />
+        <module name="Eureka-Server" />
         <module name="Config-Server" />
         <module name="Api-Gateway" />
         <module name="User-Service" />
@@ -25,6 +26,7 @@
       <module name="Eureka-Server" options="-parameters" />
       <module name="Parking-Space" options="-parameters" />
       <module name="Parking-Space-Service" options="-parameters" />
+      <module name="Payment-Service" options="-parameters" />
       <module name="User-Service" options="-parameters" />
       <module name="Vehicle-Service" options="-parameters" />
     </option>

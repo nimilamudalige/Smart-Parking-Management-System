@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/Config-Server/pom.xml" />
         <option value="$PROJECT_DIR$/Api-Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/Parking-Space-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Payment-Service/pom.xml" />
       </list>
     </option>
   </component>
