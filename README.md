@@ -25,3 +25,6 @@ A microservice-based parking solution built with Spring Boot, designed to suppor
 ---
 
 ## 📂 Resources
+
+![Screenshot](https://github.com/nimilamudalige/Smart-Parking-Management-System/blob/4f700ab9bf30934cdcf1df89d6812c2df4704d02/Screenshot%202025-07-25%20124906.png)
+- 🔗 [Postman Collection](./postman_collection.json)  
